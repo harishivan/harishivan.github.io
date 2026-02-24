@@ -21,9 +21,9 @@ Designed a GenAI assistant with safety guardrails for enterprise knowledge retri
 ---
 
 ## 🧠 Case Studies
-- **[Real-Time AI Monitoring Platform](case-1-real-time.md)**
-- **[AI Log Intelligence System](case-2-log-ai.md)**
-- **[Enterprise GenAI Assistant](case-3-genai.md)**
+- **[Real-Time AI Monitoring Platform](Case-1-real-time.md)**
+- **[AI Log Intelligence System](Case-2-log-ai.md)**
+- **[Enterprise GenAI Assistant](Case-3-genai.md)**
 
 ---
 
