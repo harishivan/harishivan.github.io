@@ -1,8 +1,9 @@
 # 👋 Hey, I’m **Hari Shivan**
-**AI Product Manager | Industrial AI | Real-Time Systems**
+**Product Minded Engineer Building Scalable AI Systems**
 
-I build **scalable AI products that solve real-world problems** — from real-time monitoring to predictive intelligence.
-
+Engineer by background.
+Product thinker by mindset.
+Focused on scalable AI platforms that improve reliability, intelligence, and operational decision-making.
 ---
 
 ## 🚀 What I Build
