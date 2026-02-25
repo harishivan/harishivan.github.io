@@ -1,9 +1,9 @@
 # 👋 Hey, I’m **Hari Shivan**
 **Product Minded Engineer Building Scalable AI Systems**
 
-Engineer by background.
-Product thinker by mindset.
-Focused on scalable AI platforms that improve reliability, intelligence, and operational decision-making.
+Engineer by background.<br>
+Product thinker by mindset.<br>
+Focused on scalable AI platforms that improve reliability, intelligence, and operational decision-making.<br>
 ---
 
 ## 🚀 What I Build
