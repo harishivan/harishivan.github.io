@@ -92,7 +92,7 @@ Implemented:
 | Model Complexity vs Maintainability | Balanced interpretability and performance                    |
 
 
-## 7) MVP -> Iteration Roadmap
+## 7) MVP → Iteration Roadmap
 **Phase 1 (MVP)**
 - Signal ingestion
 - Manual envelope comparison
@@ -110,17 +110,17 @@ Implemented:
 
 ## 8) Risks & Mitigation
 
-**Risk 1:**High False Positives
+**Risk 1:**High False Positives <br>
 **Mitigation:**
 - Dynamic threshold tuning
 - Engineer-in-the-loop feedback
 
-**Risk 2:**Model Drift Over Time
+**Risk 2:**Model Drift Over Time <br>
 **Mitigation:**
 - Scheduled model revalidation
 - Continuous aggregate monitoring
 
-**Risk 3:**Latency Constraints
+**Risk 3:**Latency Constraints <br>
 **Mitigation:**
 - Lightweight inference logic
 - Efficient streaming architecture
