@@ -14,30 +14,30 @@ How can the anomalies be detected in real-time, reduce manual inspection effort 
 
 ## 2) Users & JTBD
 
-** Primary Users **
+**Primary Users**
 - Test Engineers
 - Validation Engineers
 - Production Supervisors
 
-** Secondary Stakeholders **
+**Secondary Stakeholders**
 - Quality Assurance Teams
 - Plant Operations
 - Engineering Leadership
 
-** Jobs To Be Done **
+**Jobs To Be Done**
 - Detect deviations early
 - Reduce false positives
 - Ensure consistent validation across units
 - Minimize unplanned downtime
 
 ## 3) Oppertunity & Impact
-** Baseline challenges: **
+**Baseline challenges:**
 - Manual inspection effort
 - Delayed anomaly detection
 - Inconsistent threshold definitions
 - Limited real-time visibility
 
-** Estimated Impact Areas: **
+**Estimated Impact Areas:**
 - Undetected anomalies
 - Mean Time to Diagnose (MTTD)
 - Manual inspection hours
@@ -47,7 +47,7 @@ How can the anomalies be detected in real-time, reduce manual inspection effort 
 ## 4) North Star Metric
 Percentage of Test Runs with Automated Accurate Anomaly Classification.
 
-** Supporting Metrics: **
+**Supporting Metrics:**
 - False Positive Rate
 - False Negative Rate
 - Detection Latency
@@ -57,7 +57,7 @@ Percentage of Test Runs with Automated Accurate Anomaly Classification.
 ## 5) Solution Overview
 Designed and implemented a real-time AI-driven monitoring platform.
 
-** High-Level Architecture **
+**High-Level Architecture**
 
 Signal Sources
 → MQTT Streaming Layer
@@ -66,7 +66,7 @@ Signal Sources
 → ML Anomaly Engine
 → Dashboard & Alerting System
 
-** Key Product Decisions **
+**Key Product Decisions**
 
 1. Real-Time vs Batch Processing
    Chose near-real-time inference for faster operational feedback.
@@ -93,35 +93,35 @@ Implemented:
 
 
 ## 7) MVP -> Iteration Roadmap
-** Phase 1 (MVP) **
+**Phase 1 (MVP)**
 - Signal ingestion
 - Manual envelope comparison
 - Basic anomaly flags
 
-** Phase 2 **
+**Phase 2**
 - Automated envelope generation
 - Real-time alert dashboard
 - Basic ML classification
 
-** Phase 3 **
+**Phase 3**
 - Drift monitoring
 - Cross-unit anomaly clustering
 - Performance analytics dashboard
 
 ## 8) Risks & Mitigation
 
-** Risk 1: ** High False Positives
-** Mitigation: **
+**Risk 1:**High False Positives
+**Mitigation:**
 - Dynamic threshold tuning
 - Engineer-in-the-loop feedback
 
-** Risk 2: ** Model Drift Over Time
-** Mitigation: **
+**Risk 2:**Model Drift Over Time
+**Mitigation:**
 - Scheduled model revalidation
 - Continuous aggregate monitoring
 
-** Risk 3: ** Latency Constraints
-** Mitigation:**
+**Risk 3:**Latency Constraints
+**Mitigation:**
 - Lightweight inference logic
 - Efficient streaming architecture
 
@@ -140,5 +140,4 @@ Observed / Expected Improvements:
 - Clear metrics must be defined before training models
 - Engineers trust interpretable models more than black-box outputs
 
-## 8) Results / Impact
-What improved (even if estimated for now).
+__
